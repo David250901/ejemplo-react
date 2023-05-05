@@ -1,0 +1,6 @@
+1 Creacion de la funcion Square en cual creara un nuevo bloque al oprimir un boton
+2 Creacion de la funcion para colocar el el signo "X" o "O" dependiendo el turno que sea del jugador
+3 Funcion llamada handClick en donde se evalua cual sera el siguiente movimeinto, si seguira el juego o se selecicona un ganador
+4. Una cosntante en donde se evalua quien es el ganador 
+5. Funcion  Game de la creacion del cuadro o trabla por medio de un arreglo de 9 componenetes.
+6. Funcion calculateWinner odnde s ecrea la tabla con la enumeraicon de cada cuadro
